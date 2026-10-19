@@ -1,11 +1,11 @@
-# BeeX interview lab — PatchCore vs PaDiM
+# Anomaly Detection — PatchCore vs PaDiM
 
 A small **synthetic** anomaly-detection lab designed for learning, not for real structural inspection. Requires Python 3.11 or 3.12. Uses Anomalib 2.6.2 and PyTorch on CPU (suitable as a compatibility-first starting point on Apple Silicon Macs).
 
 ## 1. Set up
 
 ```bash
-cd beex_anomaly_lab
+cd Anomaly_Detection_with_PatchCore_and_PaDiM
 python3.11 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
@@ -46,7 +46,9 @@ The comparison is run on CPU for compatibility; it may be slow on some systems. 
 - `results/patchcore_predictions.csv` and `results/padim_predictions.csv` — per-image labels and model scores.
 - `results/patchcore_heatmaps.png` and `results/padim_heatmaps.png` — example test images beside their anomaly heatmaps.
 
-Expect the initial pretrained ResNet-18 weights to download on first run. Exact scores are **not** known in advance; inspect the actual output. This lab's synthetic texture is a teaching aid, not a meaningful benchmark of subsea inspection quality.
+Expect the initial pretrained ResNet-18 weights to download on first run. Exact scores are **not** known in advance; inspect the actual output. This lab's synthetic texture is a teaching aid, not a meaningful benchmark of real-world anomaly detection performance.
+
+Saved example outputs are included in `results_default/`. Image paths in the example prediction CSVs are relative to the repository root.
 
 ## 4. Exercises
 
