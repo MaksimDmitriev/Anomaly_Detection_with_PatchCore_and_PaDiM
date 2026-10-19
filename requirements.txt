@@ -1,0 +1,8 @@
+# Reference implementation pinned to the documented 2026-09 release.
+anomalib==2.6.2
+torch>=2.6,<3
+torchvision>=0.21
+numpy
+pillow
+scikit-learn
+matplotlib

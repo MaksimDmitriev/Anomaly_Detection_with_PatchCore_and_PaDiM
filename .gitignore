@@ -1,0 +1,24 @@
+# Generated datasets
+/data/
+/sample_preview.png
+
+# Model outputs
+/results/
+/lightning_logs/
+/checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+.idea
