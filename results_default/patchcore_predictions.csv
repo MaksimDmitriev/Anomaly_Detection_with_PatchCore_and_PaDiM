@@ -1,0 +1,17 @@
+image_path,true_label_defect_1,pred_label_defect_1,anomaly_score
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_000.png,1,1,0.6165984869003296
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_002.png,1,1,0.6556406617164612
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_003.png,1,1,0.539792001247406
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_006.png,1,1,0.6250913143157959
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_007.png,1,1,0.5088137984275818
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_010.png,1,1,0.6000779271125793
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_012.png,1,1,0.580608606338501
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/defect/test_defect_015.png,1,1,0.5311051607131958
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_000.png,0,0,0.0
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_002.png,0,0,0.0
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_003.png,0,0,0.0
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_006.png,0,0,0.0
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_007.png,0,0,0.0
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_010.png,0,0,0.0
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_012.png,0,0,0.0
+/Users/maksimandpreeti/Desktop/Maksim/Robotics-Projects/Beex_Anomaly_Detection/data/test/good/test_good_015.png,0,0,0.0
